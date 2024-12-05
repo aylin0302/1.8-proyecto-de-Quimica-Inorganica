@@ -1,5 +1,5 @@
 # 1.8-proyecto-de-Quimica-Inorganica
-ALUMNA:Roa Ortiz Aylin
+ALUMNA: Roa Ortiz Aylin
 
 DOCENTE: I.S.C Kevin David Molina Goméz
 
